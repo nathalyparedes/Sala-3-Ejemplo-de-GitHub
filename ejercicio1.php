@@ -1,6 +1,6 @@
 <?php
-echo "Sala 3";
 
+echo "hola mundo";
 
-
+print_r( "Sala 3 ");
  
